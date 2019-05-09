@@ -1,0 +1,6 @@
+Writing this to a file.
+Lift pos x0wall pos y17
+Ball pos x49ball pos y12
+Ball id 0
+Lift counter0
+Lift ball in -1
